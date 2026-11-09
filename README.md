@@ -175,8 +175,8 @@ I'm the **Director of Communication** for the **Iowa-Missouri Conference of Seve
 ---
 
 <p align="center">
-  <i>"Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven."</i><br />
-  <sub>Matthew 5:16, KJV</sub>
+  <i>"But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint."</i><br />
+  <sub>Isaiah 40:31, KJV</sub>
 </p>
 
 <!-- Footer banner -->
