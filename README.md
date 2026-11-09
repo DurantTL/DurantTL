@@ -41,7 +41,48 @@ I'm the **Director of Communication** for the **Iowa-Missouri Conference of Seve
   </tr>
 </table>
 
-## 🚀 Featured projects
+## ⭐ Flagship builds
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/DurantTL/IMSDA-Events"><img src="assets/imadventist-events-home.jpg" alt="IMAdventist public home page" width="100%" /></a>
+      <h3>⛺ <a href="https://github.com/DurantTL/IMSDA-Events">IMAdventist: Events & Club Ministry</a></h3>
+      <sub>Iowa-Missouri Conference · <a href="https://events.imsda.org">events.imsda.org</a></sub>
+      <p>One place to find events, register a family or a whole club, run check-in, and keep Pathfinder and Adventurer club records up to date.</p>
+      <ul>
+        <li>Household and club registration with live pricing, promo codes, waitlists, and Square payments</li>
+        <li>Club portal for rosters, forms, Monthly Records, honors, and the Year-End Report</li>
+        <li>Coordinator dashboards, a no-code form builder, and QR check-in with an offline-safe queue</li>
+        <li>Built to protect young people's records: server-side permissions, two-step sign-in, and encrypted data</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/DurantTL/IMConnected"><img src="assets/imconnected-home.jpg" alt="IMConnected story magazine home page" width="100%" /></a>
+      <h3>📰 <a href="https://github.com/DurantTL/IMConnected">IMConnected: Stories of Faith in Action</a></h3>
+      <sub>Iowa-Missouri Conference · <a href="https://stories.imadventist.org">stories.imadventist.org</a></sub>
+      <p>The conference's online story magazine. Church members send in stories, editors review and publish them from one dashboard, and published stories feed the IMConnected newsletter.</p>
+      <ul>
+        <li>Magazine front page with sections, newsletter issues, announcements, search, and RSS</li>
+        <li>Story submission form for church members, with photo uploads and spam protection</li>
+        <li>Editor dashboard with a drag-and-drop story builder, autosave, version history, and scheduled publishing</li>
+        <li>Every story is reviewed by a person before it reaches the public site</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
+</table>
+
+## 🚀 More projects
 
 <table>
   <tr>
