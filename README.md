@@ -67,7 +67,7 @@ I'm the **Director of Communication** for the **Iowa-Missouri Conference of Seve
       <a href="https://github.com/DurantTL/IMConnected"><img src="assets/imconnected-home.jpg" alt="IMConnected story magazine home page" width="100%" /></a>
       <h3>📰 <a href="https://github.com/DurantTL/IMConnected">IMConnected: Stories of Faith in Action</a></h3>
       <sub>Iowa-Missouri Conference · <a href="https://stories.imadventist.org">stories.imadventist.org</a></sub>
-      <p>The conference's online story magazine. Church members send in stories, editors review and publish them from one dashboard, and published stories feed the IMConnected newsletter.</p>
+      <p>The conference's online story magazine. Church members send in stories, editors review and publish them from one dashboard, and published stories feed the twice-monthly IMConnected newsletter.</p>
       <ul>
         <li>Magazine front page with sections, newsletter issues, announcements, search, and RSS</li>
         <li>Story submission form for church members, with photo uploads and spam protection</li>
@@ -113,12 +113,7 @@ I'm the **Director of Communication** for the **Iowa-Missouri Conference of Seve
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📰 IM Connected</h3>
-      <sub>Conference communications · ongoing</sub><br /><br />
-      The conference's twice-monthly newsletter
-    </td>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>🎥 Live Event Production</h3>
       <sub>Nevada SDA dual PTZ camera system (2025) · SWAU basketball broadcasts · SWAU Graduation 2020</sub><br /><br />
       Live direction · multi-camera · livestreaming
