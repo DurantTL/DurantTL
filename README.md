@@ -1,7 +1,7 @@
 ## Hi there, I'm Caleb Durant 👋
 
 **Strategic Communications | Brand & Digital Engagement | Nonprofit & Higher Education**
-📍 Waukee, Iowa · 🌐 [durant.xyz](https://durant.xyz) · 📄 [Résumé (PDF)](https://durant.xyz/caleb-durant-resume.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/calebdurant)
+🌐 [durant.xyz](https://durant.xyz) · 📄 [Résumé (PDF)](https://durant.xyz/caleb-durant-resume.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/calebdurant)
 
 I'm the **Director of Communication** for the **Iowa-Missouri Conference of Seventh-day Adventists**, serving 13,000+ members across Iowa and Missouri. I bring 10+ years of experience helping nonprofit and higher-education organizations communicate across web, print, email, social media, and live events.
 
