@@ -1,19 +1,13 @@
-<!-- Header banner -->
+<!-- Static header — drop this PNG into assets/ as profile-banner.png -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=200&section=header&text=Caleb%20Durant&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Strategic%20Communications%20%C2%B7%20Brand%20and%20Digital%20Engagement&descAlignY=58&descSize=18" alt="Caleb Durant: Strategic Communications, Brand and Digital Engagement" width="100%" />
+  <img src="assets/profile-banner.png" alt="Caleb Durant: Strategic Communications, Brand and Digital Engagement" width="100%" />
 </p>
 
-<!-- Animated tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3500&pause=900&color=0EA5E9&center=true&vCenter=true&width=640&lines=Director+of+Communication+%40+Iowa-Missouri+Conference;10%2B+years+in+nonprofit+%26+higher-ed+communications;Web+%C2%B7+Print+%C2%B7+Email+%C2%B7+Social+%C2%B7+Live+Events;Building+new+systems%2C+not+patching+old+ones" alt="Animated tagline" />
-</p>
-
-<!-- Quick links -->
-<p align="center">
-  <a href="https://durant.xyz"><img src="https://img.shields.io/badge/Portfolio-durant.xyz-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://durant.xyz/caleb-durant-resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-0ea5e9?style=for-the-badge&logo=googledocs&logoColor=white" alt="Résumé PDF" /></a>
-  <a href="https://www.linkedin.com/in/calebdurant"><img src="https://img.shields.io/badge/LinkedIn-calebdurant-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:calebtdurant@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://durant.xyz">Portfolio</a> ·
+  <a href="https://durant.xyz/caleb-durant-resume.pdf">Résumé (PDF)</a> ·
+  <a href="https://www.linkedin.com/in/calebdurant">LinkedIn</a> ·
+  <a href="mailto:calebtdurant@gmail.com">Email</a>
 </p>
 
 ---
@@ -30,24 +24,13 @@ I'm the **Director of Communication** for the **Iowa-Missouri Conference of Seve
   </tr>
 </table>
 
-## 📊 Impact at a glance
-
-<table>
-  <tr>
-    <td align="center" width="25%"><h2>+200%</h2><sub>Website engagement after redesign</sub></td>
-    <td align="center" width="25%"><h2>13K+</h2><sub>Members served through multi-state communications</sub></td>
-    <td align="center" width="25%"><h2>5K+</h2><sub>Participants reached in person and by livestream</sub></td>
-    <td align="center" width="25%"><h2>$13.8K</h2><sub>Annual savings from vendor and process changes</sub></td>
-  </tr>
-</table>
-
 ## ⭐ Flagship builds
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/DurantTL/IMSDA-Events"><img src="assets/imadventist-events-home.jpg" alt="IMAdventist public home page" width="100%" /></a>
-      <h3>⛺ <a href="https://github.com/DurantTL/IMSDA-Events">IMAdventist: Events & Club Ministry</a></h3>
+      <h3><img src="https://events.imsda.org/brand/imadventist-symbol.png" alt="IMAdventist logo" width="28" /> <a href="https://github.com/DurantTL/IMSDA-Events">IMAdventist: Events & Club Ministry</a></h3>
       <sub>Iowa-Missouri Conference · <a href="https://events.imsda.org">events.imsda.org</a></sub>
       <p>One place to find events, register a family or a whole club, run check-in, and keep Pathfinder and Adventurer club records up to date.</p>
       <ul>
@@ -56,12 +39,7 @@ I'm the **Director of Communication** for the **Iowa-Missouri Conference of Seve
         <li>Coordinator dashboards, a no-code form builder, and QR check-in with an offline-safe queue</li>
         <li>Built to protect young people's records: server-side permissions, two-step sign-in, and encrypted data</li>
       </ul>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <sub>Next.js · TypeScript · PostgreSQL · Prisma · Tailwind CSS · Docker</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/DurantTL/IMConnected"><img src="assets/imconnected-home.jpg" alt="IMConnected story magazine home page" width="100%" /></a>
@@ -74,11 +52,19 @@ I'm the **Director of Communication** for the **Iowa-Missouri Conference of Seve
         <li>Editor dashboard with a drag-and-drop story builder, autosave, version history, and scheduled publishing</li>
         <li>Every story is reviewed by a person before it reaches the public site</li>
       </ul>
-      <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <sub>Astro · Node.js · SQLite · Docker</sub>
     </td>
+  </tr>
+</table>
+
+## 📊 Impact at a glance
+
+<table>
+  <tr>
+    <td align="center" width="25%"><h2>+200%</h2><sub>Website engagement after redesign</sub></td>
+    <td align="center" width="25%"><h2>13K+</h2><sub>Members served through multi-state communications</sub></td>
+    <td align="center" width="25%"><h2>5K+</h2><sub>Participants reached in person and by livestream</sub></td>
+    <td align="center" width="25%"><h2>$13.8K</h2><sub>Annual savings from vendor and process changes</sub></td>
   </tr>
 </table>
 
@@ -89,9 +75,7 @@ I'm the **Director of Communication** for the **Iowa-Missouri Conference of Seve
     <td width="50%" valign="top">
       <h3>📝 Camporee 2026 Registration System</h3>
       <sub>IMSDA · 2025–2026</sub><br /><br />
-      <img src="https://img.shields.io/badge/Fluent%20Forms-555?style=flat-square" alt="Fluent Forms" />
-      <img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white" alt="Apps Script" />
-      <img src="https://img.shields.io/badge/PDFShift-555?style=flat-square" alt="PDFShift" />
+      Fluent Forms · Apps Script · PDFShift
     </td>
     <td width="50%" valign="top">
       <h3>🌱 Camp Meeting 2026: "Rooted Together"</h3>
@@ -103,8 +87,7 @@ I'm the **Director of Communication** for the **Iowa-Missouri Conference of Seve
     <td width="50%" valign="top">
       <h3>🌐 Multi-State Nonprofit Website Rebuild</h3>
       <sub>Iowa-Missouri Conference</sub><br /><br />
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-      Content strategy · analytics
+      WordPress · Content strategy · analytics
     </td>
     <td width="50%" valign="top">
       <h3>🎨 Brand System</h3>
@@ -121,18 +104,6 @@ I'm the **Director of Communication** for the **Iowa-Missouri Conference of Seve
   </tr>
 </table>
 
-## 🧰 Toolbox
-
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Adobe%20Creative%20Suite-DA1F26?style=for-the-badge" alt="Adobe Creative Suite" />
-  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace" />
-  <img src="https://img.shields.io/badge/Apps%20Script-34A853?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Apps Script" />
-  <img src="https://img.shields.io/badge/CRM%20%26%20Email-6B46C1?style=for-the-badge" alt="CRM and Email" />
-  <img src="https://img.shields.io/badge/Livestreaming-E11D48?style=for-the-badge" alt="Livestreaming" />
-  <img src="https://img.shields.io/badge/Analytics-F59E0B?style=for-the-badge" alt="Analytics" />
-</p>
-
 **Expertise:** Communications Strategy · Brand Management · Digital Content & Web Strategy · Audience Engagement · Leadership & Internal Communications · Email Marketing & CRM · Social Media · Event Communications & Livestreaming · Analytics & Reporting
 
 ## 💼 Experience
@@ -146,19 +117,6 @@ I'm the **Director of Communication** for the **Iowa-Missouri Conference of Seve
 | 2014–2017 | GLOW Coordinator / Community Outreach | Arizona Conference |
 | 2009–2014 | Video Editor / Film Production | The Beehive International |
 | 2008–2017 | Founder & Web Designer | Geo Trek Web Design |
-
-<details>
-<summary><b>Highlights from the Iowa-Missouri Conference</b></summary>
-<br />
-
-- Led a website redesign and content restructure that increased engagement by 200%
-- Built a brand system spanning digital, print, social media, and live events
-- Modernized an annual calendar mailed to 2,500+ households
-- Automated registration, reporting, and internal workflows
-- Advised leadership during organizational change, with vendor and process changes saving about $13,800 a year
-- Produced event communications reaching 5,000+ people in person and online
-
-</details>
 
 ## 🎓 Education and certification
 
@@ -177,9 +135,4 @@ I'm the **Director of Communication** for the **Iowa-Missouri Conference of Seve
 <p align="center">
   <i>"But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint."</i><br />
   <sub>Isaiah 40:31, KJV</sub>
-</p>
-
-<!-- Footer banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=110&section=footer" alt="" width="100%" />
 </p>
